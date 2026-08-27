@@ -21,7 +21,7 @@ export HF_TOKEN="YOURTOKENHERE"
 
 ## Datasets
 
-Either download manually from [COCHRANE-SECTIONS](https://github.com/JanB100/cochrane-sections), and copy `alignments/` and `data/cochrane/data.json` into `data/cochrane-sections/`; or run:
+Either download manually from [Cochrane-sections](https://github.com/JanB100/cochrane-sections), and copy `alignments/` and `data/cochrane/data.json` into `data/cochrane-sections/`; or run:
 
 ```bash
 bash scripts/preprocessing/download_cochrane-sections.sh
