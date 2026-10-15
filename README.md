@@ -6,6 +6,10 @@ Code for the paper *Retrieval-Augmented Simplification of Sectioned Biomedical A
 
 > *Overview of the RAG pipeline for the simplification of sectioned biomedical abstracts. For each section of a complex abstract that the LLM is asked to simplify, we retrieve the top-k most similar reviews from the RAG index and take from each the matching section. Every retrieved example is then put in the prompt as the complex abstract section together with its PLS section, which is split into rephrased and inserted sentences.*
 
+## Resources
+
+- **Poster** — [`supp/poster.pdf`](supp/poster.pdf)
+
 For convenience we provide bash scripts for all experiments in this paper. For specific parameters refer to the [scripts](scripts/) directory.
 
 ## Installation
