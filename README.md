@@ -8,6 +8,7 @@ Code for the paper *Retrieval-Augmented Simplification of Sectioned Biomedical A
 
 ## Resources
 
+- **Paper** — [ACL Anthology](https://aclanthology.org/2026.findings-emnlp.1513.pdf)
 - **Poster** — [`supp/poster.pdf`](supp/poster.pdf)
 
 For convenience we provide bash scripts for all experiments in this paper. For specific parameters refer to the [scripts](scripts/) directory.
